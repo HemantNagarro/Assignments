@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+	name = HemantNagarro
+	email = hemant.gupta@nagarro.com
+	password = guptahemant@1407
+# Please adapt and uncomment the following lines:
+#	name = Hemant Gupta
+#	email = hemant.gupta@nagarro.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
